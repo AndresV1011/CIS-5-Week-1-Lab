@@ -1,6 +1,6 @@
 #include <iostream>
-
-// Lab 1 — Your Name
+using namespace std;
+// Lab 1 — Andres Valenzuela
 // CIS 5 Week 01
 
 int main() {
